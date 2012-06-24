@@ -6,3 +6,5 @@ Sets additional git information as environment variables:
  - GIT_PARENT
  - GIT_REVISION
  - GIT_REVISION_SHORT
+
+Works great with https://github.com/JoelJ/DescriptionSetter
